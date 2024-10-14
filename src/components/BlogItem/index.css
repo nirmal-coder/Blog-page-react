@@ -1,0 +1,12 @@
+.list-container {
+  width: min(90%, 900px);
+  list-style: none;
+}
+.content-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.des {
+  color: #9aa5b1;
+}
